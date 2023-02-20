@@ -11,7 +11,7 @@ spring:
           username: zeus23051979
           password: Zeus200302a
           default-label: "main"
-  security:
-    user:
-      name: root
-      password: Zeus  
+  #security:
+    #user:
+      #name: root
+      #password: Zeus  
