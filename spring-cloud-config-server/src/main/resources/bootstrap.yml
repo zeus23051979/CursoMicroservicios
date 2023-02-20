@@ -10,7 +10,7 @@ spring:
           searchPaths: config-data
           username: zeus23051979
           password: Zeus200302a
-          default-label: "master"
+          default-label: "main"
   security:
     user:
       name: root
