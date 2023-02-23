@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: product-service #nombre de nuestro archivo de configuración
+  cloud:
+    config:
+      uri: http://localhost:8081 #lugar donde esta corriendo nuestro config server
+      username: root #credenciales del config server cuando agregamos la dependencia security
+      password: Zeus
